@@ -29,4 +29,5 @@ public class p3_5 {
         PI=MontePI(n);					//计算PI
         System.out.println("PI="+PI); 				//输出结果
     }
+
 }
